@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imvaibhavpatil/nodejs-learning-curve.git"
+    "url": "git+https://github.com/vaibhavpatil28/nodejs-learning-curve.git"
   },
   "author": "Vaibhav Patil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imvaibhavpatil/nodejs-learning-curve/issues"
+    "url": "https://github.com/vaibhavpatil28/nodejs-learning-curve/issues"
   },
-  "homepage": "https://github.com/imvaibhavpatil/nodejs-learning-curve#readme",
+  "homepage": "https://github.com/vaibhavpatil28/nodejs-learning-curve#readme",
   "dependencies": {
     "esm": "^3.2.25",
     "express": "^4.17.1"
