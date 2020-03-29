@@ -1,1 +1,1 @@
-import "something"; // something
+import "something/index.mjs"; // something
