@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start-esm": "node --experimental-modules",
+    "start-esm": "nodemon --experimental-modules",
     "start": "npm run start-esm server.js"
   },
   "repository": {
@@ -21,5 +21,8 @@
   "dependencies": {
     "esm": "^3.2.25",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
